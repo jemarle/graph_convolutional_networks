@@ -2,3 +2,6 @@ https://distill.pub/2021/gnn-intro/
 
 https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95
 
+https://distill.pub/2021/gnn-intro/
+
+

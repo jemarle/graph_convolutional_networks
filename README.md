@@ -1,8 +1,8 @@
-Tarea E-3: El algoritmo DOMINANT de detección de anomalías en grafos está basado en
-las ideas de redes convolucionales (GNN) y autoencoders (GAE) en grafos.
-● Introduce teóricamente las redes convolucionales en grafos (GNN).
-● Aplica las GNN en ejemplos sencillos en los que se muestre los conceptos
-anteriormente introducidos.
+Tarea E-3: El algoritmo DOMINANT de detección de anomalías en grafos está basado en las ideas de redes convolucionales (GNN) y autoencoders (GAE) en grafos.
+
+* Introduce teóricamente las redes convolucionales en grafos (GNN).
+* 
+* Aplica las GNN en ejemplos sencillos en los que se muestre los conceptos anteriormente introducidos.
 
 La presentación consistirá en la exposición del tema y ejemplos desarrollados minimizando la cantidad de código a lo esencial (y solo si hiciera falta).
 

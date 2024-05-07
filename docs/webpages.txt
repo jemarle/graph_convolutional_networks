@@ -2,4 +2,11 @@ https://distill.pub/2021/gnn-intro/
 
 https://towardsdatascience.com/graph-convolutional-networks-introduction-to-gnns-24b3f60d6c95
 
+https://www.youtube.com/watch?v=xFMhLp52qKI
+
+https://www.youtube.com/watch?v=me3UsMm9QEs
+
+https://vinija.ai/recsys/GNN/#embedding-generation-neural-message-passing INFO PASO MENSAJES
+https://www.aritrasen.com/graph-neural-network-message-passing-gcn-1-1/
+
 
